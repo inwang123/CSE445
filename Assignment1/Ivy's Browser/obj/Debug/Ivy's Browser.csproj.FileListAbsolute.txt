@@ -1,0 +1,40 @@
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\WcfService1\Ivy's Browser\bin\Debug\Ivy's Browser.exe.config
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\WcfService1\Ivy's Browser\bin\Debug\Ivy's Browser.exe
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\WcfService1\Ivy's Browser\bin\Debug\Ivy's Browser.pdb
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\WcfService1\Ivy's Browser\obj\Debug\Ivy's Browser.csproj.AssemblyReference.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\WcfService1\Ivy's Browser\obj\Debug\Ivy_s_Browser.Form1.resources
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\WcfService1\Ivy's Browser\obj\Debug\Ivy_s_Browser.Properties.Resources.resources
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\WcfService1\Ivy's Browser\obj\Debug\Ivy's Browser.csproj.GenerateResource.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\WcfService1\Ivy's Browser\obj\Debug\Ivy's Browser.csproj.CoreCompileInputs.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\WcfService1\Ivy's Browser\obj\Debug\Ivy's Browser.exe
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\WcfService1\Ivy's Browser\obj\Debug\Ivy's Browser.pdb
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\CSE445Assignment1\Ivy's Browser\bin\Debug\Ivy's Browser.exe.config
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\CSE445Assignment1\Ivy's Browser\bin\Debug\Ivy's Browser.exe
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\CSE445Assignment1\Ivy's Browser\bin\Debug\Ivy's Browser.pdb
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\CSE445Assignment1\Ivy's Browser\obj\Debug\Ivy's Browser.csproj.AssemblyReference.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\CSE445Assignment1\Ivy's Browser\obj\Debug\Ivy_s_Browser.Form1.resources
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\CSE445Assignment1\Ivy's Browser\obj\Debug\Ivy_s_Browser.Properties.Resources.resources
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\CSE445Assignment1\Ivy's Browser\obj\Debug\Ivy's Browser.csproj.GenerateResource.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\CSE445Assignment1\Ivy's Browser\obj\Debug\Ivy's Browser.csproj.CoreCompileInputs.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\CSE445Assignment1\Ivy's Browser\obj\Debug\Ivy's Browser.exe
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\CSE445Assignment1\Ivy's Browser\obj\Debug\Ivy's Browser.pdb
+C:\Users\Ivy Wang\OneDrive\Desktop\test\Ivy's Browser\bin\Debug\Ivy's Browser.exe.config
+C:\Users\Ivy Wang\OneDrive\Desktop\test\Ivy's Browser\bin\Debug\Ivy's Browser.exe
+C:\Users\Ivy Wang\OneDrive\Desktop\test\Ivy's Browser\bin\Debug\Ivy's Browser.pdb
+C:\Users\Ivy Wang\OneDrive\Desktop\test\Ivy's Browser\obj\Debug\Ivy's Browser.csproj.AssemblyReference.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\test\Ivy's Browser\obj\Debug\Ivy_s_Browser.Form1.resources
+C:\Users\Ivy Wang\OneDrive\Desktop\test\Ivy's Browser\obj\Debug\Ivy_s_Browser.Properties.Resources.resources
+C:\Users\Ivy Wang\OneDrive\Desktop\test\Ivy's Browser\obj\Debug\Ivy's Browser.csproj.GenerateResource.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\test\Ivy's Browser\obj\Debug\Ivy's Browser.csproj.CoreCompileInputs.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\test\Ivy's Browser\obj\Debug\Ivy's Browser.exe
+C:\Users\Ivy Wang\OneDrive\Desktop\test\Ivy's Browser\obj\Debug\Ivy's Browser.pdb
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment1\Ivy's Browser\bin\Debug\Ivy's Browser.exe.config
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment1\Ivy's Browser\bin\Debug\Ivy's Browser.exe
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment1\Ivy's Browser\bin\Debug\Ivy's Browser.pdb
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment1\Ivy's Browser\obj\Debug\Ivy's Browser.csproj.AssemblyReference.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment1\Ivy's Browser\obj\Debug\Ivy_s_Browser.Form1.resources
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment1\Ivy's Browser\obj\Debug\Ivy_s_Browser.Properties.Resources.resources
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment1\Ivy's Browser\obj\Debug\Ivy's Browser.csproj.GenerateResource.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment1\Ivy's Browser\obj\Debug\Ivy's Browser.csproj.CoreCompileInputs.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment1\Ivy's Browser\obj\Debug\Ivy's Browser.exe
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment1\Ivy's Browser\obj\Debug\Ivy's Browser.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Stemming\bin\Stemming.dll.config
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Stemming\bin\Stemming.dll
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Stemming\bin\Stemming.pdb
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Stemming\bin\Newtonsoft.Json.dll
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Stemming\bin\Newtonsoft.Json.xml
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Stemming\obj\Release\Stemming.csproj.AssemblyReference.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Stemming\obj\Release\Stemming.csproj.CoreCompileInputs.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Stemming\obj\Release\Stemming.csproj.CopyComplete
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Stemming\obj\Release\Stemming.dll
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Stemming\obj\Release\Stemming.pdb

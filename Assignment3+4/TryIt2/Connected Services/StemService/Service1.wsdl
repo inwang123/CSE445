@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://webstrar101.fulton.asu.edu/Page0/Service1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://webstrar101.fulton.asu.edu/Page0/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://webstrar101.fulton.asu.edu/Page0/Service1.svc?xsd=xsd2" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_StemText_InputMessage">
+    <wsdl:part name="parameters" element="tns:StemText" />
+  </wsdl:message>
+  <wsdl:message name="IService1_StemText_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StemTextResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetPokemonInfo_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPokemonInfo" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetPokemonInfo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPokemonInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetRandomPokemonId_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetRandomPokemonId" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetRandomPokemonId_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetRandomPokemonIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetPokemonImageUrl_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPokemonImageUrl" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetPokemonImageUrl_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPokemonImageUrlResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetSudokuPuzzle_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetSudokuPuzzle" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetSudokuPuzzle_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetSudokuPuzzleResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetMatrices_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetMatrices" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetMatrices_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetMatricesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ParseStringToArray_InputMessage">
+    <wsdl:part name="parameters" element="tns:ParseStringToArray" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ParseStringToArray_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ParseStringToArrayResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ArrayToString_InputMessage">
+    <wsdl:part name="parameters" element="tns:ArrayToString" />
+  </wsdl:message>
+  <wsdl:message name="IService1_ArrayToString_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ArrayToStringResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_FormatSudoku_InputMessage">
+    <wsdl:part name="parameters" element="tns:FormatSudoku" />
+  </wsdl:message>
+  <wsdl:message name="IService1_FormatSudoku_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FormatSudokuResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="StemText">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/StemText" message="tns:IService1_StemText_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/StemTextResponse" message="tns:IService1_StemText_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPokemonInfo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetPokemonInfo" message="tns:IService1_GetPokemonInfo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetPokemonInfoResponse" message="tns:IService1_GetPokemonInfo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetRandomPokemonId">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetRandomPokemonId" message="tns:IService1_GetRandomPokemonId_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetRandomPokemonIdResponse" message="tns:IService1_GetRandomPokemonId_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPokemonImageUrl">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetPokemonImageUrl" message="tns:IService1_GetPokemonImageUrl_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetPokemonImageUrlResponse" message="tns:IService1_GetPokemonImageUrl_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSudokuPuzzle">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetSudokuPuzzle" message="tns:IService1_GetSudokuPuzzle_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetSudokuPuzzleResponse" message="tns:IService1_GetSudokuPuzzle_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMatrices">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetMatrices" message="tns:IService1_GetMatrices_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetMatricesResponse" message="tns:IService1_GetMatrices_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ParseStringToArray">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/ParseStringToArray" message="tns:IService1_ParseStringToArray_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/ParseStringToArrayResponse" message="tns:IService1_ParseStringToArray_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ArrayToString">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/ArrayToString" message="tns:IService1_ArrayToString_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/ArrayToStringResponse" message="tns:IService1_ArrayToString_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FormatSudoku">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/FormatSudoku" message="tns:IService1_FormatSudoku_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/FormatSudokuResponse" message="tns:IService1_FormatSudoku_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="StemText">
+      <soap:operation soapAction="http://tempuri.org/IService1/StemText" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPokemonInfo">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetPokemonInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRandomPokemonId">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetRandomPokemonId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPokemonImageUrl">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetPokemonImageUrl" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSudokuPuzzle">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetSudokuPuzzle" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMatrices">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetMatrices" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ParseStringToArray">
+      <soap:operation soapAction="http://tempuri.org/IService1/ParseStringToArray" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ArrayToString">
+      <soap:operation soapAction="http://tempuri.org/IService1/ArrayToString" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FormatSudoku">
+      <soap:operation soapAction="http://tempuri.org/IService1/FormatSudoku" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://webstrar101.fulton.asu.edu/Page0/Service1.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

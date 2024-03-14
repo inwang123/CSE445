@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "WcfService1\Service.csproj", "{2864A629-0CBF-4E67-BC5C-019729B2D50B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureApp", "WindowsFormsApp1\TemperatureApp.csproj", "{C3BAFD38-A011-46F8-A416-FFFBAD738BEF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2864A629-0CBF-4E67-BC5C-019729B2D50B} = {2864A629-0CBF-4E67-BC5C-019729B2D50B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ivy's Browser", "Ivy's Browser\Ivy's Browser.csproj", "{6A44BF12-207E-441C-A4B9-3161B4E9BAC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureWebsite", "tempconvert\TemperatureWebsite.csproj", "{0A28DEF1-78EA-4F4E-AACE-226297396ED4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2864A629-0CBF-4E67-BC5C-019729B2D50B} = {2864A629-0CBF-4E67-BC5C-019729B2D50B}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Read me", "Read me", "{EA5D676F-1D22-4132-A091-3F79C7C7AC1F}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2864A629-0CBF-4E67-BC5C-019729B2D50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2864A629-0CBF-4E67-BC5C-019729B2D50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2864A629-0CBF-4E67-BC5C-019729B2D50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2864A629-0CBF-4E67-BC5C-019729B2D50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3BAFD38-A011-46F8-A416-FFFBAD738BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BAFD38-A011-46F8-A416-FFFBAD738BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BAFD38-A011-46F8-A416-FFFBAD738BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BAFD38-A011-46F8-A416-FFFBAD738BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A44BF12-207E-441C-A4B9-3161B4E9BAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A44BF12-207E-441C-A4B9-3161B4E9BAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A44BF12-207E-441C-A4B9-3161B4E9BAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A44BF12-207E-441C-A4B9-3161B4E9BAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A28DEF1-78EA-4F4E-AACE-226297396ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A28DEF1-78EA-4F4E-AACE-226297396ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A28DEF1-78EA-4F4E-AACE-226297396ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A28DEF1-78EA-4F4E-AACE-226297396ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B9EB935-54F2-4649-BCAB-F739CCB44C50}
+	EndGlobalSection
+EndGlobal

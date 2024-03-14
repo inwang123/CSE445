@@ -1,0 +1,10 @@
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\NaturalHazard\bin\NaturalHazard.dll.config
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\NaturalHazard\bin\NaturalHazard.dll
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\NaturalHazard\bin\NaturalHazard.pdb
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\NaturalHazard\bin\Newtonsoft.Json.dll
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\NaturalHazard\bin\Newtonsoft.Json.xml
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\NaturalHazard\obj\Release\NaturalHazard.csproj.AssemblyReference.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\NaturalHazard\obj\Release\NaturalHazard.csproj.CoreCompileInputs.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\NaturalHazard\obj\Release\NaturalHazard.csproj.CopyComplete
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\NaturalHazard\obj\Release\NaturalHazard.dll
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\NaturalHazard\obj\Release\NaturalHazard.pdb

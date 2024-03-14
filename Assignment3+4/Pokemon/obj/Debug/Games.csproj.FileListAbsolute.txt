@@ -1,0 +1,10 @@
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Pokemon\bin\Pokemon.dll.config
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Pokemon\bin\Pokemon.dll
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Pokemon\bin\Pokemon.pdb
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Pokemon\bin\Newtonsoft.Json.dll
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Pokemon\bin\Newtonsoft.Json.xml
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Pokemon\obj\Debug\Games.csproj.AssemblyReference.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Pokemon\obj\Debug\Games.csproj.CoreCompileInputs.cache
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Pokemon\obj\Debug\Games.csproj.CopyComplete
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Pokemon\obj\Debug\Pokemon.dll
+C:\Users\Ivy Wang\OneDrive\Desktop\CSE445\Assignment3\Pokemon\obj\Debug\Pokemon.pdb
